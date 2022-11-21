@@ -50,5 +50,5 @@ h1 span {
 .box:hover .box_content {
     opacity: 1;
     transform: scale(1) rotate(0deg);
-    transition-delay: 0.2s;
+    transition-delay: 0.2s
 }
