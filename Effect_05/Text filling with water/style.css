@@ -27,7 +27,7 @@ body {
     background: url(water.jpeg);
     background-repeat: repeat-x;
     -webkit-background-clip: text;
-    animation: water 15s linear infinite
+    animation: water 15s linear infinite;
 }
 
 @keyframes water {
