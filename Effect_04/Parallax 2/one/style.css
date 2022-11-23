@@ -29,7 +29,7 @@ section{
     color: white;
     min-height: 100vh;
     position: relative;
-	z-index: 9;
+    z-index: 9;
 }
 
 section::before{
@@ -47,7 +47,7 @@ section::before{
 section div h1{
 	font-size: 100px;
 	max-width: 1000px;
-color: #ffee88;
+        color: #ffee88;
 }
 
 section div p{
