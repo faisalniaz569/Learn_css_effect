@@ -3,4 +3,4 @@ test.txt
 *.txt
 !main.txt
 test?.txt
-temp
+temp/
